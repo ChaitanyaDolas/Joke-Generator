@@ -1,5 +1,14 @@
-### I was bored and I was scrolling through github then came acroos a Joke Generator api. So I thought why not to cure my boredom by creating a joke generator web app.
+# Joke Generator
+### I was bored and I was scrolling through github then came across a Joke Generator api. So I thought why not to cure my boredom by creating a joke generator web app.
 Deployment link: https://joke-generator-eta-sage.vercel.app/
+
+## Features
+* Random Joke Generation: Fetches a random joke from the Official Joke API and displays it on the screen.
+* Responsive Design: The application is designed to work seamlessly across various devices and screen sizes.
+* Reload Button: Allows users to fetch a new random joke with the click of a button.
+* Custom Styling: Utilizes Tailwind CSS for custom styling, ensuring a modern and visually appealing user interface.
+* FontAwesome Icons: Integrates FontAwesome icons for enhanced visual elements, providing a delightful user experience.
+
 
 Backend Deployment link: https://joke-generator-x7k9.onrender.com/api/random
 
