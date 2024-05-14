@@ -15,7 +15,8 @@ export const Joke = () => {
 
   const fetchJoke = async () => {
     try{
-      const response = await fetch('http://localhost:5000/api/random');
+      const response = await fetch('https://joke-generator-x7k9.onrender.com/api/random');
+      // for local run 'http://localhost:5000/api/random'
       const data = await response.json();
       setJoke(data);
     } catch(error) {
