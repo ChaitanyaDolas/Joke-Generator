@@ -19,4 +19,6 @@ This was a fun small project which helped me grasp the understanding of the APIs
 ## Deployment
 The application is deployed using [Render](https://render.com/) for backend [Vercel](https://vercel.com/) for frontend.
 
-This was a fun small project which helped me grasp the understanding of the APIs, Material UI, Axios, Cors and Tailwind CSS.
+## Images
+![Screenshot (550)](https://github.com/ChaitanyaDolas/Joke-Generator/assets/108191480/075d28b9-92bb-44ab-8ad7-bb94c140d5d1)
+![Screenshot (551)](https://github.com/ChaitanyaDolas/Joke-Generator/assets/108191480/340f06d6-2036-47d8-a1c8-1f454dbac300)
