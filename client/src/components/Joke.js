@@ -30,7 +30,7 @@ export const Joke = () => {
         { joke && (
           <>
             <Typography sx={{ marginTop: '30px', color: '#eb5e28', letterSpacing: '5px'}}>
-              ADVICE #{joke.id}
+              JOKE #{joke.id}
             </Typography>
             <div className=' min-h-[100px] '>
               <Typography sx={{ marginTop: '30px', color: '#fff', fontSize: '30px' }}>
