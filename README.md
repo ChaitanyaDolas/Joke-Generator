@@ -2,6 +2,8 @@
 ### I was bored and I was scrolling through github then came across a Joke Generator api. So I thought why not to cure my boredom by creating a joke generator web app.
 The project is deployed [here](https://joke-generator-eta-sage.vercel.app/).
 
+This was a fun small project which helped me grasp the understanding of the APIs, Material UI, Axios, Cors and Tailwind CSS.
+
 ## Features
 * Random Joke Generation: Fetches a random joke from the Official Joke API and displays it on the screen.
 * Responsive Design: The application is designed to work seamlessly across various devices and screen sizes.
